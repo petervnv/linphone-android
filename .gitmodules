@@ -1,61 +1,61 @@
 [submodule "linphone"]
 	path = submodules/linphone
-	url = git://github.com/Linphone-sync/linphone
+	url = git://git.linphone.org/linphone
 [submodule "submodules/externals/gsm"]
 	path = submodules/externals/gsm
-	url = git://github.com/Linphone-sync/gsm.git
+	url = git://git.linphone.org/gsm.git
 [submodule "submodules/externals/speex"]
 	path = submodules/externals/speex
-	url = github.com/Linphone-sync/speex
+	url = git://git.linphone.org/speex
 [submodule "submodules/msilbc"]
 	path = submodules/msilbc
-	url = git://github.com/Linphone-sync/msilbc.git
+	url = git://git.linphone.org/msilbc.git
 [submodule "submodules/libilbc-rfc3951"]
 	path = submodules/libilbc-rfc3951
-	url = git://github.com/Linphone-sync/libilbc-rfc3951.git
+	url = git://git.linphone.org/libilbc-rfc3951.git
 [submodule "submodules/externals/ffmpeg"]
 	path = submodules/externals/ffmpeg
-	url = git://github.com/Linphone-sync/ffmpeg.git
+	url = git://git.linphone.org/ffmpeg.git
 	ignore = dirty
 [submodule "submodules/externals/x264"]
 	path = submodules/externals/x264
-	url = git://github.com/Linphone-sync/x264.git
+	url = git://git.linphone.org/x264.git
 	ignore = dirty
 [submodule "submodules/msx264"]
 	path = submodules/msx264
-	url = git://github.com/Linphone-sync/msx264.git
+	url = git://git.linphone.org/msx264.git
 [submodule "submodules/externals/opencore-amr"]
 	path = submodules/externals/opencore-amr
 	url = git://git.code.sf.net/p/opencore-amr/code
 	ignore = dirty
 [submodule "submodules/msamr"]
 	path = submodules/msamr
-	url = git://github.com/Linphone-sync/msamr
+	url = git://git.linphone.org/msamr
 [submodule "submodules/externals/libvpx"]
 	path = submodules/externals/libvpx
 	url = http://git.chromium.org/webm/libvpx.git
 	ignore = dirty
 [submodule "submodules/bzrtp"]
 	path = submodules/bzrtp
-	url = git://github.com/Linphone-sync/bzrtp.git
+	url = git://git.linphone.org/bzrtp.git
 [submodule "submodules/externals/srtp"]
 	path = submodules/externals/srtp
-	url = git://github.com/Linphone-sync/srtp.git
+	url = git://git.linphone.org/srtp.git
 [submodule "submodules/mssilk"]
 	path = submodules/mssilk
-	url = git://github.com/Linphone-sync/mssilk.git
+	url = git://git.linphone.org/mssilk.git
 [submodule "submodules/externals/vo-amrwbenc"]
 	path = submodules/externals/vo-amrwbenc
 	url = git://git.code.sf.net/p/opencore-amr/vo-amrwbenc
 [submodule "submodules/bcg729"]
 	path = submodules/bcg729
-	url = git://github.com/Linphone-sync/bcg729.git
+	url = git://git.linphone.org/bcg729.git
 [submodule "submodules/belle-sip"]
 	path = submodules/belle-sip
-	url = git://github.com/Linphone-sync/belle-sip
+	url = git://git.linphone.org/belle-sip
 [submodule "submodules/externals/antlr3"]
 	path = submodules/externals/antlr3
-	url = git://github.com/Linphone-sync/antlr3.git
+	url = git://git.linphone.org/antlr3.git
 [submodule "submodules/externals/libxml2"]
 	path = submodules/externals/libxml2
 	url = git://git.gnome.org/libxml2
@@ -64,22 +64,22 @@
 	url = git://git.code.sf.net/p/pupnp/code
 [submodule "submodules/externals/cunit"]
 	path = submodules/externals/cunit
-	url = git://github.com/Linphone-sync/cunit.git
+	url = git://git.linphone.org/cunit.git
 [submodule "submodules/externals/axmlrpc"]
 	path = submodules/externals/axmlrpc
-	url = git://github.com/Linphone-sync/axmlrpc.git
+	url = git://git.linphone.org/axmlrpc.git
 [submodule "submodules/externals/polarssl"]
 	path = submodules/externals/polarssl
-	url = git://github.com/Linphone-sync/polarssl.git
+	url = git://git.linphone.org/polarssl.git
 [submodule "submodules/externals/opus"]
 	path = submodules/externals/opus
 	url = git://git.opus-codec.org/opus.git
 [submodule "submodules/mswebrtc"]
 	path = submodules/mswebrtc
-	url = git://github.com/Linphone-sync/mswebrtc.git
+	url = git://git.linphone.org/mswebrtc.git
 [submodule "submodules/msopenh264"]
 	path = submodules/msopenh264
-	url = git://github.com/Linphone-sync/msopenh264.git
+	url = git://git.linphone.org/msopenh264.git
 [submodule "submodules/externals/openh264"]
 	path = submodules/externals/openh264
 	url = https://github.com/cisco/openh264
@@ -90,4 +90,4 @@
 	ignore = dirty
 [submodule "submodules/externals/webrtc"]
 	path = submodules/externals/webrtc
-	url = git://github.com/Linphone-sync/webrtc.git
+	url = git://git.linphone.org/webrtc.git
